@@ -1,1 +1,0 @@
-print("pronto para deletar")
