@@ -1,0 +1,1 @@
+print("vid a linda")
